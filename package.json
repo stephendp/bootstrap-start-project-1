@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap4",
+  "version": "1.0.0",
+  "description": "Bootstrap starter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bootstrap-start-project-1"
+  },
+  "author": "Stephen Covert <stephendp51@gmail.com>",
+  "license": "MIT"
+}
